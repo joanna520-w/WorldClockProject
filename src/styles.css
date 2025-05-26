@@ -1,11 +1,11 @@
 body {
-  background-color: #f9f7fe;
-  font-family: sans-serif;
+  background-color: #8594e4;
+  font-family: Courier New;
 }
 
 h1 {
   text-align: center;
-  font-family: sans-serif;
+  font-family: Courier New;
   font-size: 36px;
 }
 
@@ -20,6 +20,7 @@ select {
   font-size: 18px;
   border-radius: 4px;
   padding: 10px;
+  background-color: #f9f7fe; 
 }
 
 .container {
@@ -62,5 +63,5 @@ footer {
   text-align: center;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
-  font-family: sans-serif;
+  font-family: Courier New;
 }
